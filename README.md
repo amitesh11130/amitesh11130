@@ -2,7 +2,7 @@
 
 🚀 Turning complex requirements into robust Java solutions!
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 💻 Java Developer | Microservices Enthusiast | Tech Explorer
 
@@ -19,7 +19,7 @@
 🎯 Git expertise for efficient collaboration and version control.
 
 
-##🔧 Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
 Languages & Frameworks
 
@@ -40,7 +40,7 @@ Tools & Productivity Boosters
 🖥️ Agile (Scrum) methodology for team collaboration
 
 
-##📬 How to Reach Me
+## 📬 How to Reach Me
 
 📧 Email: amitesh11130@gmail.com
 
@@ -48,7 +48,7 @@ Tools & Productivity Boosters
 
 🌎 Portfolio: [Portfolio Link - If Amitesh has one, please replace with actual URL]
 
-##⚡ Fun Facts
+## ⚡ Fun Facts
 
 🤔 Problem-solving is my passion, especially when it involves optimizing complex queries.
 

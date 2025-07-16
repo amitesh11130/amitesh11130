@@ -21,13 +21,15 @@
 
 ## 🔧 Tech Stack & Tools
 
-Languages & Frameworks
+### Languages & Frameworks
 
 🐍 Java | 🌐 Spring Boot | 🌐 Microservices | ⚡ Rest API | 💾 SQL
-Databases
+
+### Databases
 
 🗄️ MySQL | 🗄️ Oracle | 🗄️ SQL Server
-Tools & Productivity Boosters
+
+### Tools & Productivity Boosters
 
 🔎 ELK Stack (Elasticsearch, Logstash, Kibana) for monitoring & logging
 

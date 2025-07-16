@@ -30,7 +30,9 @@ Tools & Productivity Boosters
 ##📬 How to Reach Me
 
 📧 Email: amitesh11130@gmail.com
+
 💼 LinkedIn: www.linkedin.com/in/amitesh-kumar-3694b9146
+
 🌎 Portfolio: [Portfolio Link - If Amitesh has one, please replace with actual URL]
 
 ##⚡ Fun Facts

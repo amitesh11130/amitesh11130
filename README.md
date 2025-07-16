@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Hey there, I'm Amitesh Kumar!
 
 <!--
 **amitesh11130/amitesh11130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

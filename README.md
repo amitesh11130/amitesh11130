@@ -1,4 +1,5 @@
 👋 Hey there, I'm Amitesh Kumar!
+
 🚀 Turning complex requirements into robust Java solutions!
 
 👨‍💻 About Me
@@ -26,8 +27,8 @@ Tools & Productivity Boosters
 🖥️ Agile (Scrum) methodology for team collaboration
 
 📬 How to Reach Me
-📧 Email: amiteshkumarmehta@gmail.com
-💼 LinkedIn: [LinkedIn Profile Link - Please replace with Amitesh's actual LinkedIn URL]
+📧 Email: amitesh11130@gmail.com
+💼 LinkedIn: www.linkedin.com/in/amitesh-kumar-3694b9146
 🌎 Portfolio: [Portfolio Link - If Amitesh has one, please replace with actual URL]
 
 ⚡ Fun Facts

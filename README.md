@@ -1,16 +1,43 @@
-##👋 Hey there, I'm Amitesh Kumar!
+👋 Hey there, I'm Amitesh Kumar!
 
-<!--
-**amitesh11130/amitesh11130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Turning complex requirements into robust Java solutions!
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+💻 Java Developer | Microservices Enthusiast | Tech Explorer
+🏗️ Currently building scalable web applications using Spring Boot, Microservices, and REST APIs.
+🌱 Strong in Microservices Architecture, leveraging Eureka, Zuul, Spring Cloud Config, and Feign Client.
+🔍 Experienced in log monitoring & debugging with the ELK Stack (Elasticsearch, Logstash, Kibana).
+💡 Proficient in Oracle & SQL Server, focusing on database design and query optimization.
+🤝 Skilled in debugging, troubleshooting, and performance tuning.
+🎯 Git expertise for efficient collaboration and version control.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack & Tools
+
+Languages & Frameworks
+
+🐍 Java | 🌐 Spring Boot | 🌐 Microservices | ⚡ Rest API | 💾 SQL
+Databases
+
+🗄️ MySQL | 🗄️ Oracle | 🗄️ SQL Server
+Tools & Productivity Boosters
+
+🔎 ELK Stack (Elasticsearch, Logstash, Kibana) for monitoring & logging
+🛠 Git & Postman for development and testing
+🚀 Redis for caching & session management
+🔗 Kafka for messaging
+🖥️ Agile (Scrum) methodology for team collaboration
+
+📬 How to Reach Me
+
+📧 Email: amiteshkumarmehta@gmail.com
+💼 LinkedIn: [LinkedIn Profile Link - Please replace with Amitesh's actual LinkedIn URL]
+🌎 Portfolio: [Portfolio Link - If Amitesh has one, please replace with actual URL]
+
+⚡ Fun Facts
+
+🤔 Problem-solving is my passion, especially when it involves optimizing complex queries.
+💡 My code works perfectly... especially after a good debugging session with Kibana.
+⚽ Enjoying team sports and exploring new technologies in my free time.
+✈️ Love traveling and exploring new cultures.
+
+📌 Follow me for more code, insights into microservices, and tech adventures! Let’s connect and build something amazing together! 🚀😃

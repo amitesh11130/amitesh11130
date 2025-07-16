@@ -1,8 +1,7 @@
 👋 Hey there, I'm Amitesh Kumar!
-
 🚀 Turning complex requirements into robust Java solutions!
-👨‍💻 About Me
 
+👨‍💻 About Me
 💻 Java Developer | Microservices Enthusiast | Tech Explorer
 🏗️ Currently building scalable web applications using Spring Boot, Microservices, and REST APIs.
 🌱 Strong in Microservices Architecture, leveraging Eureka, Zuul, Spring Cloud Config, and Feign Client.
@@ -12,7 +11,6 @@
 🎯 Git expertise for efficient collaboration and version control.
 
 🔧 Tech Stack & Tools
-
 Languages & Frameworks
 
 🐍 Java | 🌐 Spring Boot | 🌐 Microservices | ⚡ Rest API | 💾 SQL
@@ -28,13 +26,11 @@ Tools & Productivity Boosters
 🖥️ Agile (Scrum) methodology for team collaboration
 
 📬 How to Reach Me
-
 📧 Email: amiteshkumarmehta@gmail.com
 💼 LinkedIn: [LinkedIn Profile Link - Please replace with Amitesh's actual LinkedIn URL]
 🌎 Portfolio: [Portfolio Link - If Amitesh has one, please replace with actual URL]
 
 ⚡ Fun Facts
-
 🤔 Problem-solving is my passion, especially when it involves optimizing complex queries.
 💡 My code works perfectly... especially after a good debugging session with Kibana.
 ⚽ Enjoying team sports and exploring new technologies in my free time.

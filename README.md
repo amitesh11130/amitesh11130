@@ -48,8 +48,6 @@
 
 💼 LinkedIn: www.linkedin.com/in/amitesh-kumar-3694b9146
 
-🌎 Portfolio: [Portfolio Link - If Amitesh has one, please replace with actual URL]
-
 ## ⚡ Fun Facts
 
 🤔 Problem-solving is my passion, especially when it involves optimizing complex queries.
